@@ -1,0 +1,4 @@
+d={1:'ravi',2:'bsc',3:'2ndyear',4:'2002'}
+d.pop(1)
+d.pop(2)
+print(d)
